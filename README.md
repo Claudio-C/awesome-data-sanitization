@@ -1,5 +1,5 @@
 # awesome-data-sanitization
-Awesome Data Sanitization
+Awesome Data Sanitization aka borrado seguro de datos
 
 https://docs.google.com/spreadsheets/d/1GrQoZDAcsfVVP6jNnjiHUvIMPtolW3WHHKaxpZVfMIo/edit?usp=sharing
 Coments are in spanish
